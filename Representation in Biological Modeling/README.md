@@ -1,1 +1,1 @@
-
+Despite the massive recent increase in biological data, the biology from which these data rise is still quite complex. Given this conundrum, a question arises: is there a way to prioritize mechanisms while still gaining insight into this complexity? Indeed, we can use the concept of representation to guide our ability to characterize highly-complex biological systems in an informative manner. 
