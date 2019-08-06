@@ -1,1 +1,1 @@
-This repository contains abstracts for presentations given by members of the Orthogonal Lab.
+This repository contains abstracts for presentations given by members of the Orthogonal Lab. Additional presentations associated with the DevoWorm group are [located here](https://github.com/devoworm/Proposals-Public-Lectures).
